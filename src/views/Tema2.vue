@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Subsistema Nacional de Voluntarios de Primera Respuesta
+      h1 Subsistema nacional de voluntarios de primera respuesta
 
     p.mb-1 Con el fin de generar procesos de prevención e intervención al riesgo de desastres, surge el Subsistema nacional de voluntarios en primera respuesta. 
 

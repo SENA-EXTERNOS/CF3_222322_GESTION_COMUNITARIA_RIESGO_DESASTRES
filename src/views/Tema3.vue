@@ -123,7 +123,8 @@
     .background-tema3-2   
       .row.justify-content-around.aling-items-center.mt-5  
         .col-lg-11
-          p.mt-4.mb-1 Las autoridades departamentales, distritales y municipales son las responsables de formular y concertar con sus respectivos consejos de gestión del riesgo la ERE de su respectiva jurisdicción en armonía con la estrategia de respuesta nacional. Dentro de los servicios de respuesta se encuentra.
+          p.mt-4.mb-1 Las autoridades departamentales, distritales y municipales, son las responsables de formular y concertar con sus respectivos consejos de gestión del riesgo, la ERE de su respectiva jurisdicción, en armonía con la estrategia de respuesta nacional. Dentro de los servicios de respuesta se encuentran:
+
       .row.justify-content-around.aling-items-center.mt-2.mb-2
         .col-11
           .row.justify-content-around.aling-items-center.mt-5.mb-1
@@ -321,8 +322,8 @@
     .row.justify-content-around.aling-items-center.mt-5
       .col-11
         .cajon.color-acento-contenido.p-4
-          p Aquí finaliza el desarrollo temático del componente formativo Riesgo de desastres, concepto es descrito como la probabilidad que una comunidad, bien inmueble o una unidad productiva, sufra daño o se produzcan pérdidas, debido a las amenazas originadas por fenómenos naturales, o antropogénicos, en un instante o lugar determinado.  Recuerde explorar los demás recursos que se encuentran disponibles en este, para ello diríjase al menú principal en el cual encontrará la síntesis, una actividad didáctica, material complementario, entre otros. 
-
+          p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+          
 </template>
 
 <script>

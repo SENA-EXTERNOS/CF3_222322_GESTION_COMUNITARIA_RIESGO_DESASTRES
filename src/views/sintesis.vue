@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5.mt-4 El siguiente esquema, ilustra algunos de los aspectos centrales desarrollados en el componente formativo “Riesgos de desastres”
-
+    p.mb-5.mt-4 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
+    
     .row.justify-content-center.mt-4
       .col-lg-10.mb-5
         figure

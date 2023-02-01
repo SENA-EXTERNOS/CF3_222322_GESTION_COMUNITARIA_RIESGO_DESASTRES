@@ -9,8 +9,11 @@
           i.fas.fa-info
       h1 Introducción
 
-    p Bienvenidos al componente formativo Riesgo de desastres bajo el cual se describirán los contenidos a trabajar en el desarrollo del resultado de aprendizaje llamado: proponer alternativas para la formulación de la estrategia de respuesta a emergencias –ERE– según metodología en el marco de la competencia atender incidentes según protocolos y normativa. En un primer apartado se encontrará lo que refiere a las técnicas de manejo, evaluación y métodos de control del riesgo, en un segundo apartado se hará referencia al subsistema nacional de voluntarios de primera respuesta y se finalizará con la respuesta comunitaria a emergencias y desastres. Se invita a iniciar este recorrido observando el siguiente video de introducción.
-    
+    p Apreciado aprendiz, bienvenido a este componente formativo, donde aprenderá lo que se refiere a las técnicas de manejo, evaluación y métodos de control del riesgo; en un segundo tema, se hará referencia al subsistema nacional de voluntarios de primera respuesta, y se finalizará con la respuesta comunitaria a emergencias y desastres. 
+
+    p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
+
+
     figure
       img(src="@/assets/curso/portada/intro-img-decorativa-01.svg").intro-decorativa-01
 

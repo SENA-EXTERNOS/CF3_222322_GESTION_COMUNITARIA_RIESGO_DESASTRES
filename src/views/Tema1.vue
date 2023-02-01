@@ -66,9 +66,12 @@
             p Como se ha mencionado anteriormente la Gestión Integral del Riesgo de Desastres tiene como principal objetivo contribuir con el desarrollo seguro y sostenible del país, garantizando el bienestar y seguridad de la población, a través del entendimiento y fortalecimiento de las capacidades institucionales de los actores gubernamentales y comunitarios. <br><br>
             p Esta identificación, control y seguimiento permite, a través de los componentes del proceso de gestión para la reducción del riesgo, generar medidas correctivas, prospectivas y de ser necesario, compensatorias (Unidad Nacional para la Gestión del Riesgo de Desastres -UNGRD-, 2019).
 
+    .row.mt-5
+      p A continuación, se presenta de manera esquemática, el proceso sobre la gestión del riesgo:
+    
     .row.justify-content-around.align-items-center
       .col-12
-        img(src="@/assets/curso/temas/tema1/tema1-img-07.svg")  
+        img(src="@/assets/curso/temas/tema1/img1.svg")  
 
 
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-01.svg").tema1-decorativa-01
@@ -113,10 +116,10 @@
         .col-11
           SlyderB.mb-5.mt-5.color-hover(:datos="datosSlyder")    
     
-    
+    .row.mt-5
+      p Si no se crean medidas que promuevan la reducción del riesgo, se pueden producir impactos en la reducción del riesgo. Fuente: Unidad nacional para la gestión del riesgo de desastres, (2015).
 
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
-      p.mt-3.mb-4 Si no se crean medidas que promuevan la reducción del riesgo, se pueden producir impactos en la reducción del riesgo. Fuente: Unidad nacional para la gestión del riesgo de desastres, (2015).
       .row.tam-row
         .col-12
           .crd.crd--avatarHorizontal.crd--1.py-4
@@ -231,8 +234,11 @@
                 .col
                   h5 Módulo 4
                   p Cálculo del riesgo para integración de daños para estimación de pérdidas.
+    
+    .row.mt-5
+      p La gestión para el cálculo del riesgo, debe tener como base la investigación y análisis de los acontecimientos históricos que representen o asemejen la dinámica actual de los eventos, que posiblemente generen afectación sobre elementos expuestos el día de mañana en caso de un desastre. Los resultados en cuanto a cálculo de pérdidas son el principal insumo para crear la función de densidad que proporciona el panorama completo del riesgo (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
+    
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
-      p.mb-3 La gestión para el cálculo del riesgo, debe tener como base la investigación y análisis de los acontecimientos históricos que representen o asemejen la dinámica actual de los eventos, que posiblemente generen afectación sobre elementos expuestos el día de mañana en caso de un desastre. Los resultados en cuanto a cálculo de pérdidas son el principal insumo para crear la función de densidad que proporciona el panorama completo del riesgo (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). (Unidad nacional de gestión de riesgo de desastres. (s.f)).             
       img(src="@/assets/curso/temas/tema1/tema1-img-28.svg", alt="alt").img100
     
     p.mb-4 Es indispensable al hablar de riesgos reconocer la evaluación integral del mismo. 
@@ -253,8 +259,11 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-30.svg')
+    
+    .row.mt-5
+      p En la imagen se evidencia como la gestión del riesgo es un proceso permanente y continuo entre la vulnerabilidad y la amenaza, un proceso que debe ser articulado con los instrumentos de planificación territorial, contribuyendo al desarrollo social y económico de la localidad. De igual manera es fundamental la articulación de la gestión del riesgo a nivel nacional, departamental y municipal (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
+    
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
-      p.mt-3.mb-4 En la imagen se evidencia como la gestión del riesgo es un proceso permanente y continuo entre la vulnerabilidad y la amenaza, un proceso que debe ser articulado con los instrumentos de planificación territorial, contribuyendo al desarrollo social y económico de la localidad. De igual manera es fundamental la articulación de la gestión del riesgo a nivel nacional, departamental y municipal (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
       figure
         img(src='@/assets/curso/temas/tema1/tema1-img-31.svg')    
     
@@ -323,6 +332,9 @@
       .col-lg-2
         img(src="@/assets/curso/temas/tema1/tema1-img-41.svg", alt="alt")
 
+    .row.mt-5
+      p A continuación, observe el siguiente video, para profundizar las acciones de Intervención del Riesgo de Desastres:
+    
     .row.mb-5
       figure.mt-5
         .video
@@ -330,14 +342,15 @@
 
     .row.justify-content-around.aling-items-center.mt-5.mb-5
       .col-11
-        .bloque-texto-g.color-primario.tam-tarjeta-color.p-3.p-sm-1.p-md-5    
+        .bloque-texto-g.color-primario.p-3.p-sm-1.p-md-5    
           .bloque-texto-g__img.bloque-img-tema1-2(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-42.svg')})`}"
           )
           .bloque-texto-g__texto.bloque-texto-tema4.p-4
             p.mb-0 El propósito de la protección financiera es aumentar el nivel de resiliencia de las comunidades y sus territorios a través de procesos de planificación del desarrollo sostenible, es decir, diseñar y mantener instrumentos financieros para subsanar cualquier pérdida o daño (humano o material) y lograr una recuperación, total o parcial del territorio (Unidad nacional para la gestión del riesgo de desastres, 2013).
-          .bloque-texto-g__texto.bloque-texto-tema4-1.p-4
-            p.mb-0 Ante la incidencia de un evento peligroso, la finalidad de la protección financiera, es destinar los recursos necesarios, en el momento oportuno, para quien lo requiera, es decir, mediante un enfoque prospectivo planificar y calcular los costos generados por la posible materialización de un evento peligroso. Así mismo, fortalecer económicamente la capacidad de respuesta. 
+          
+    .row.mt-5
+      p Ante la incidencia de un evento peligroso, la finalidad de la protección financiera, es destinar los recursos necesarios, en el momento oportuno, para quien lo requiera, es decir, mediante un enfoque prospectivo planificar y calcular los costos generados por la posible materialización de un evento peligroso. Así mismo, fortalecer económicamente la capacidad de respuesta. 
     
     .clr-img-tarjetas1
       .row.justify-content-around.align-items-center

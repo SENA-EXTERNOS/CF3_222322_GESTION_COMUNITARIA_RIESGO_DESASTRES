@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Riesgo de desastres',
     descripcionCurso:
-      'Con este componente formativo entenderá la dinámica del riesgo de desastres, en la cual intervienen componentes como vulnerabilidad, amenaza y factores como magnitud e intensidad. Logrará entender que el conocimiento del riesgo, proporciona lineamientos para diseño de acciones dando respuesta cuando se materialice un riesgo y disminución de intensidad del impacto sobre la comunidad y desarrollo sostenible del territorio.',
+      'Este componente formativo describe la dinámica del riesgo de desastres, en la cual intervienen componentes como vulnerabilidad y amenaza, y factores como magnitud, e intensidad. Entenderá que el conocimiento del riesgo, proporciona lineamientos para el diseño de acciones, que aporten respuestas cuando se materialice un riesgo para la disminución de intensidad del impacto sobre la comunidad, y el desarrollo sostenible del territorio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -126,14 +126,15 @@ export default {
     {
       tema: 'Métodos de control',
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2016). Articulación de instrumentos de planificación para la gestión del riesgo de desastres. Bogotá D. C, Colombia. ',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2016). <em>Articulación de instrumentos de planificación para la gestión del riesgo de desastres</em>. Bogotá D. C, Colombia. ',
       tipo: 'Documento',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20713/Articulacio%cc%81n_Instrumentos_Planificacio%cc%81n2018.pdf?sequence=14&isAllowed=y',
     },
     {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
-      referencia: 'Ministerio del Interior. (2012). Ley de Voluntariado. ',
+      referencia:
+        'Ministerio del Interior. (2012). <em>Ley de Voluntariado</em>. ',
       tipo: 'Documento',
       link:
         'https://www.cruzrojacolombiana.org/wp-content/uploads/2019/09/Ley-1505-de-2012.pdf',
@@ -141,7 +142,7 @@ export default {
     {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
       referencia:
-        'Dirección Nacional de Bomberos de Colombia. (2022). Normograma Dirección nacional de bomberos de Colombia. ',
+        'Dirección Nacional de Bomberos de Colombia. (2022). <em>Normograma Dirección nacional de bomberos de Colombia</em>. ',
       tipo: 'Documento',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1505_2012.html#:~:text=SUBSISTEMA%20NACIONAL%20DE%20VOLUNTARIOS%20EN%20PRIMERA%20RESPUESTA.,desastres%2C%20emergencias%20y%20eventos%20antr%C3%B3picos.',
@@ -149,15 +150,14 @@ export default {
     {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
       referencia:
-        'Cruz Roja Colombiana. (2019). Página web institucional. Políticas y normatividad institucional.',
+        'Cruz Roja Colombiana. (2019). Página web institucional. <em>Políticas y normatividad institucional</em>.',
       tipo: 'Página Web',
       link:
         'https://www.cruzrojacolombiana.org/politicas-y-normatividad-institucional/',
     },
     {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
-      referencia:
-        'Ministerio de Defensa Nacional. (2022). Página web institucional. Normativa.',
+      referencia: 'Ministerio de Defensa Nacional. (2022). <em>Normativa</em>.',
       tipo: 'Página Web',
       link:
         'https://www.defensacivil.gov.co/transparencia-acceso-informacion-publica/2-normativa',
@@ -165,7 +165,7 @@ export default {
     {
       tema: 'Respuesta comunitaria a emergencias y desastres',
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias. Bogotá, Colombia.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). <em>Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias</em>. Bogotá, Colombia.',
       tipo: 'Documento',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27698/guia%20EMRE.pdf?sequence=6&isAllowed=y#:~:text=1523%20de%202012).-,%C2%BFQu%C3%A9%20es%20la%20Estrategia%20para%20la%20Respuesta%20a%20Emergencias%20%2D%20ERE,y%20aten%2D%20ci%C3%B3n%20de%20emergencias.',
@@ -173,7 +173,7 @@ export default {
     {
       tema: 'Respuesta comunitaria a emergencias y desastres',
       referencia:
-        'Programa de las Naciones Unidas para el desarrollo - programa de apoyo a la reducción de riesgos de desastres en México. (2015). Guía de organización comunitaria para la respuesta de desastres. Fortalecimiento de Capacidades en la Reducción de Desastres. Mérida, Yucatán, México. ',
+        'Programa de las Naciones Unidas para el desarrollo - programa de apoyo a la reducción de riesgos de desastres en México. (2015). <em>Guía de organización comunitaria para la respuesta de desastres. Fortalecimiento de Capacidades en la Reducción de Desastres</em>. Mérida, Yucatán, México. ',
       tipo: 'Documento',
       link:
         'https://www.undp.org/es/latin-america/publications/gu%C3%ADa-de-organizaci%C3%B3n-comunitaria-para-la-respuesta-de-desastres-fortalecimiento-de-capacidades-en-la-reducci%C3%B3n-de',

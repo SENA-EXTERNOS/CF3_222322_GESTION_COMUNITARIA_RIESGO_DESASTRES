@@ -145,7 +145,7 @@ export default {
         'Dirección Nacional de Bomberos de Colombia. (2022). <em>Normograma Dirección nacional de bomberos de Colombia</em>. ',
       tipo: 'Documento',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1505_2012.html#:~:text=SUBSISTEMA%20NACIONAL%20DE%20VOLUNTARIOS%20EN%20PRIMERA%20RESPUESTA.,desastres%2C%20emergencias%20y%20eventos%20antr%C3%B3picos.',
+        'Normograma Dirección nacional de bomberos de Colombia. http://www.secretariasenado.gov.co/senado/basedoc/ley_1505_2012.html#:~:text=SUBSISTEMA%20NACIONAL%20DE%20VOLUNTARIOS%20EN%20PRIMERA%20RESPUESTA.,desastres%2C%20emergencias%20y%20eventos%20antr%C3%B3picos',
     },
     {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
@@ -280,12 +280,7 @@ export default {
       link:
         'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179 ',
     },
-    {
-      referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (julio de 2013). Guía Comunitaria para la Gestión del Riesgo de Desastres. Bogotá, Colombia.',
-      link:
-        'http://cedir.gestiondelriesgo.gov.co/archivospdf/2-guia-comunitaria-grd.pdf',
-    },
+
     {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres. (2015). Resumen Ejecutivo - Implementación de los procesos de gestión del riesgo de desastres, para transferir al FNGRD, a nivel nacional. Colombia.',

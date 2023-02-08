@@ -274,7 +274,7 @@
     p.mt-4.mb-4 Como se explicó anteriormente, la gestión del riesgo, es un proceso social que inicia con la construcción de los escenarios de estos, a los que está expuesta una comunidad, y continúa con la creación, análisis, implementación y control de las medidas para minimizar cada uno de estos factores al menos porcentaje posible.
     .clr-img-slyder1.mb-5
       .row.justify-content-around.align-items-center
-        .col-11
+        .col-12.p-4
           SlyderB.mb-5.mt-5.color-hover(:datos="datosSlyder2")
 
     
@@ -362,19 +362,19 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/tema1-img-44.svg' alt='AvatarTop')
-          p.text-center #[b Seguro de vida que evita dejar desamparada la familia]           
+          p.text-center #[b Seguro de vida que evita dejar desamparada la familia.]           
 
         .tarjeta.color_secundario.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/tema1-img-45.svg' alt='AvatarTop')
-          p.text-center #[b Seguros todo riesgo, para evitar perder el patrimonio de toda la vida, por ejemplo, la vivienda, y poder adquirir una nueva]
+          p.text-center #[b Seguros todo riesgo, para evitar perder el patrimonio de toda la vida, por ejemplo, la vivienda, y poder adquirir una nueva.]
 
         .tarjeta.color_secundario.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/tema1-img-46.svg' alt='AvatarTop')
-          p.text-center #[b Seguro de cosechas]
+          p.text-center #[b Seguro de cosechas.]
 
         .tarjeta.color_secundario.p-4
           .row.justify-content-center.mb-3

@@ -234,62 +234,62 @@ export default {
   referencias: [
     {
       referencia:
-        'Ayuda Humanitaria; Cruz Roja Colombiana; Cruz Roja Alemana; Cruz Roja Noruega; Cruz Roja Holandesa; Unidad Nacional para la Gestión del Riesgo de Desastres. (2014). Conceptualización en Gestión del Riesgo de Desastres. <i>Proyecto DIPECHO VIII</i>. Norte de Santander, Colombia.',
+        'Ayuda Humanitaria; Cruz Roja Colombiana; Cruz Roja Alemana; Cruz Roja Noruega; Cruz Roja Holandesa; Unidad Nacional para la Gestión del Riesgo de Desastres. (2014). Conceptualización en Gestión del Riesgo de Desastres. <em>Proyecto DIPECHO VIII</em>. Norte de Santander, Colombia.',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29838/conceptos_gestion_riesgo.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Congreso de la República. (24 de abril de 2012). Ley 1523 de 2012. Colombia.',
+        'Congreso de la República. (24 de abril de 2012). <em>Ley 1523 de 2012. Colombia</em>.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1523_2012.html',
     },
     {
       referencia:
-        'Congreso de la República. (5 de enero de 2012). Ley 1505 de 2012.',
+        'Congreso de la República. (5 de enero de 2012). <em>Ley 1505 de 2012</em>.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1505_2012.html#:~:text=SUBSISTEMA%20NACIONAL%20DE%20VOLUNTARIOS%20EN%20PRIMERA%20RESPUESTA.,desastres%2C%20emergencias%20y%20eventos%20antr%C3%B3picos',
     },
     {
       referencia:
-        'Congreso de la República. (24 de abril de 2012). Ley 1523 de 2012. Colombia.',
+        'Congreso de la República. (24 de abril de 2012). <em>Ley 1523 de 2012. Colombia</em>.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1523_2012.html',
     },
     {
       referencia:
-        'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (2013). Plan Nacional de Gestión del Riesgo de Desastres 2013-2025 "Una Estrategia de Desarrollo".',
+        'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (2013). <em>Plan Nacional de Gestión del Riesgo de Desastres 2013-2025 "Una Estrategia de Desarrollo</em>".',
       link:
         'http://docs.wixstatic.com/ugd/a02d6e_1eff708014424892a113344def36a25c.pdf',
     },
     {
       referencia:
-        'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (8 de julio de 2019). Comunidades Unidas en Gestión del Riesgo de Desastres',
+        'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (8 de julio de 2019). <em>Comunidades Unidas en Gestión del Riesgo de Desastres.</em>',
       link:
         'https://www.youtube.com/watch?v=1xdhPbXw404&ab_channel=UNGRDGesti%C3%B3ndelRiesgodeDesastres ',
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riesgo de Desastres. (2022). Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo" 2015 - 2030. Colombia. ',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riesgo de Desastres. (2022). <em>Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo" 2015 - 2030</em>. Colombia. ',
       link:
         'http://portal.gestiondelriesgo.gov.co/Documents/PNGRD/PNGRD-2022-Actualizacion-VF.pdf',
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). Atlas de Riesgo de Colombia: revelando los desastres latentes. Bogotá, Colombia.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). <em>Atlas de Riesgo de Colombia: revelando los desastres latentes</em>. Bogotá, Colombia.',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179 ',
     },
 
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2015). Resumen Ejecutivo - Implementación de los procesos de gestión del riesgo de desastres, para transferir al FNGRD, a nivel nacional. Colombia.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2015). <em>Resumen Ejecutivo - Implementación de los procesos de gestión del riesgo de desastres, para transferir al FNGRD, a nivel nacional</em>. Colombia.',
       link:
         'http://portal.gestiondelriesgo.gov.co/Documents/Proyectos-Inversion/2015/proyecto_implementacion_procesos_gr_2015_2018.pdf',
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias. Bogotá, Colombia.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). <em>Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias</em>. Bogotá, Colombia.',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27698/guia%20EMRE.pdf?sequence=6&isAllowed=y#:~:text=1523%20de%202012).-,%C2%BFQu%C3%A9%20es%20la%20Estrategia%20para%20la%20Respuesta%20a%20Emergencias%20%2D%20ERE,y%20aten%2D%20ci%C3%B3n%20de%20emergencias.',
     },

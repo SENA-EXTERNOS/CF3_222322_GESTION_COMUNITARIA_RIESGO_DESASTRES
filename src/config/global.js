@@ -124,28 +124,12 @@ export default {
         'https://www.youtube.com/watch?v=Aaifxx8uGac&ab_channel=UNGRDGesti%C3%B3ndelRiesgodeDesastres',
     },
     {
-      tema: 'Métodos de control',
-      referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2016). <em>Articulación de instrumentos de planificación para la gestión del riesgo de desastres</em>. Bogotá D. C, Colombia. ',
-      tipo: 'Documento',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20713/Articulacio%cc%81n_Instrumentos_Planificacio%cc%81n2018.pdf?sequence=14&isAllowed=y',
-    },
-    {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
       referencia:
         'Ministerio del Interior. (2012). <em>Ley de Voluntariado</em>. ',
       tipo: 'Documento',
       link:
         'https://www.cruzrojacolombiana.org/wp-content/uploads/2019/09/Ley-1505-de-2012.pdf',
-    },
-    {
-      tema: 'Subsistema nacional de voluntarios de primera respuesta',
-      referencia:
-        'Dirección Nacional de Bomberos de Colombia. (2022). <em>Normograma Dirección nacional de bomberos de Colombia</em>. ',
-      tipo: 'Documento',
-      link:
-        'Normograma Dirección nacional de bomberos de Colombia. http://www.secretariasenado.gov.co/senado/basedoc/ley_1505_2012.html#:~:text=SUBSISTEMA%20NACIONAL%20DE%20VOLUNTARIOS%20EN%20PRIMERA%20RESPUESTA.,desastres%2C%20emergencias%20y%20eventos%20antr%C3%B3picos',
     },
     {
       tema: 'Subsistema nacional de voluntarios de primera respuesta',
@@ -161,14 +145,6 @@ export default {
       tipo: 'Página Web',
       link:
         'https://www.defensacivil.gov.co/transparencia-acceso-informacion-publica/2-normativa',
-    },
-    {
-      tema: 'Respuesta comunitaria a emergencias y desastres',
-      referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). <em>Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias</em>. Bogotá, Colombia.',
-      tipo: 'Documento',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27698/guia%20EMRE.pdf?sequence=6&isAllowed=y#:~:text=1523%20de%202012).-,%C2%BFQu%C3%A9%20es%20la%20Estrategia%20para%20la%20Respuesta%20a%20Emergencias%20%2D%20ERE,y%20aten%2D%20ci%C3%B3n%20de%20emergencias.',
     },
     {
       tema: 'Respuesta comunitaria a emergencias y desastres',
@@ -235,8 +211,6 @@ export default {
     {
       referencia:
         'Ayuda Humanitaria; Cruz Roja Colombiana; Cruz Roja Alemana; Cruz Roja Noruega; Cruz Roja Holandesa; Unidad Nacional para la Gestión del Riesgo de Desastres. (2014). Conceptualización en Gestión del Riesgo de Desastres. <em>Proyecto DIPECHO VIII</em>. Norte de Santander, Colombia.',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29838/conceptos_gestion_riesgo.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
@@ -277,8 +251,6 @@ export default {
     {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). <em>Atlas de Riesgo de Colombia: revelando los desastres latentes</em>. Bogotá, Colombia.',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179 ',
     },
 
     {
@@ -290,8 +262,6 @@ export default {
     {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). <em>Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias</em>. Bogotá, Colombia.',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27698/guia%20EMRE.pdf?sequence=6&isAllowed=y#:~:text=1523%20de%202012).-,%C2%BFQu%C3%A9%20es%20la%20Estrategia%20para%20la%20Respuesta%20a%20Emergencias%20%2D%20ERE,y%20aten%2D%20ci%C3%B3n%20de%20emergencias.',
     },
   ],
   creditos: {

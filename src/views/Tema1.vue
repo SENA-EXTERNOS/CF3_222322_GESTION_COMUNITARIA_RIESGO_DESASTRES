@@ -255,7 +255,7 @@
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="02")
-              p.texto-slyder.ps-1.mb-1 A nivel global y nacional, se cuenta con la implementación de estos modelos probabilísticos en diversas ciudades, obteniendo como fruto, la construcción del indicador (RI), , el cual evalúa, compara y comunica el riesgo de manera eficiente, permitiendo la promoción de medidas eficaces en las diferentes dimensiones de la vulnerabilidad. Con este tipo de herramientas es posible entender y comunicar de manera simple un sistema complejo.
+              p.texto-slyder.ps-1.mb-1 A nivel global y nacional, se cuenta con la implementación de estos modelos probabilísticos en diversas ciudades, obteniendo como fruto, la construcción del indicador (RI), el cual evalúa, compara y comunica el riesgo de manera eficiente, permitiendo la promoción de medidas eficaces en las diferentes dimensiones de la vulnerabilidad. Con este tipo de herramientas es posible entender y comunicar de manera simple un sistema complejo.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-30.svg')

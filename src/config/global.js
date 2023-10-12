@@ -63,7 +63,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Subsistema nacional de voluntarios de primera respuesta',
+        titulo: 'Subsistema Nacional de Voluntarios de Primera Respuesta',
         desarrolloContenidos: true,
       },
       {
@@ -118,13 +118,13 @@ export default {
     {
       tema: 'Riesgo de desastres',
       referencia:
-        'Unidad nacional para la gestión del riesgo de desastres. (11 de julio de 2019). Marco Estratégico para la Gestión del Riesgo de Desastres',
+        'Unidad nacional para la gestión del riesgo de desastres. (11 de julio de 2019). <em>Marco Estratégico para la Gestión del Riesgo de Desastres</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=Aaifxx8uGac&ab_channel=UNGRDGesti%C3%B3ndelRiesgodeDesastres',
     },
     {
-      tema: 'Subsistema nacional de voluntarios de primera respuesta',
+      tema: 'Subsistema Nacional de Voluntarios de Primera Respuesta',
       referencia:
         'Ministerio del Interior. (2012). <em>Ley de Voluntariado</em>. ',
       tipo: 'Documento',
@@ -132,15 +132,15 @@ export default {
         'https://www.cruzrojacolombiana.org/wp-content/uploads/2019/09/Ley-1505-de-2012.pdf',
     },
     {
-      tema: 'Subsistema nacional de voluntarios de primera respuesta',
+      tema: 'Subsistema Nacional de Voluntarios de Primera Respuesta',
       referencia:
         'Cruz Roja Colombiana. (2019). Página web institucional. <em>Políticas y normatividad institucional</em>.',
       tipo: 'Página Web',
       link:
-        'https://www.cruzrojacolombiana.org/politicas-y-normatividad-institucional/',
+        'http://www.cruzrojacolombiana.org/wp-content/uploads/2019/11/Politica-voluntariado-Cruz-Roja-Colombiana-1.pdf',
     },
     {
-      tema: 'Subsistema nacional de voluntarios de primera respuesta',
+      tema: 'Subsistema Nacional de Voluntarios de Primera Respuesta',
       referencia: 'Ministerio de Defensa Nacional. (2022). <em>Normativa</em>.',
       tipo: 'Página Web',
       link:
@@ -202,15 +202,17 @@ export default {
         'corresponden a las acciones que deberán desarrollarse para la atención de los daños y pérdidas humanas, materiales, económicas o ambientales que se presentan por efecto de eventos adversos ocurridos.',
     },
     {
-      termino: 'Subsistema nacional de voluntarios en primera respuesta',
+      termino: 'Subsistema Nacional de Voluntarios en Primera Respuesta',
       significado:
-        'es el conjunto de entidades que realizan acciones voluntarias en primera respuesta a nivel nacional, en atención y prevención de desastres, emergencias y eventos antrópicos, el cual hace parte del Sistema nacional para la prevención y atención de desastres.',
+        'es el conjunto de entidades que realizan acciones voluntarias en primera respuesta a nivel nacional, en atención y prevención de desastres, emergencias y eventos antrópicos, el cual hace parte del Sistema Nacional para la Prevención y Atención de Desastres.',
     },
   ],
   referencias: [
     {
       referencia:
         'Ayuda Humanitaria; Cruz Roja Colombiana; Cruz Roja Alemana; Cruz Roja Noruega; Cruz Roja Holandesa; Unidad Nacional para la Gestión del Riesgo de Desastres. (2014). Conceptualización en Gestión del Riesgo de Desastres. <em>Proyecto DIPECHO VIII</em>. Norte de Santander, Colombia.',
+      link:
+        'http://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29838/conceptos_gestion_riesgo.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
@@ -224,12 +226,7 @@ export default {
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1505_2012.html#:~:text=SUBSISTEMA%20NACIONAL%20DE%20VOLUNTARIOS%20EN%20PRIMERA%20RESPUESTA.,desastres%2C%20emergencias%20y%20eventos%20antr%C3%B3picos',
     },
-    {
-      referencia:
-        'Congreso de la República. (24 de abril de 2012). <em>Ley 1523 de 2012. Colombia</em>.',
-      link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1523_2012.html',
-    },
+
     {
       referencia:
         'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (2013). <em>Plan Nacional de Gestión del Riesgo de Desastres 2013-2025 "Una Estrategia de Desarrollo</em>".',
@@ -262,6 +259,8 @@ export default {
     {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres. (2018). <em>Guía Metodológica Estrategias Territoriales para la Respuesta a Emergencias</em>. Bogotá, Colombia.',
+      link:
+        'http://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27698/guia%20EMRE.pdf?sequence=6&isAllowed=y',
     },
   ],
   creditos: {

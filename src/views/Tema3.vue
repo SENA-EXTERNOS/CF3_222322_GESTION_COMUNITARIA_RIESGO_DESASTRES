@@ -14,7 +14,7 @@
             img(src="@/assets/curso/temas/tema3/tema3-img-01-1.svg").img-tema3-1
         .col-lg-7  
           .tema-3.txt1
-            p.mb-5 Las comunidades, en cualquier parte del mundo, pueden vivir en un momento en particular, alguna situación que altere la vida cotidiana debido a la materialización o probabilidad de ocurrencia de un evento adverso de índole natural o antropogénico. Sin embargo, cuando se han adelantado acciones que promueven una Gestión del riesgo integral, las comunidades y el Estado, pueden estar en condiciones adecuadas que permiten la anticipación de muchas situaciones de emergencia.
+            p.mb-5 Las comunidades, en cualquier parte del mundo, pueden vivir en un momento en particular, alguna situación que altere la vida cotidiana debido a la materialización o probabilidad de ocurrencia de un evento adverso de índole natural o antropogénico. Sin embargo, cuando se han adelantado acciones que promueven una Gestión del Riesgo Integral, las comunidades y el Estado, pueden estar en condiciones adecuadas que permiten la anticipación de muchas situaciones de emergencia.
 
     .clr.background-img-tema3-1.p-4.mt-4.mb-5
       .row
@@ -23,7 +23,7 @@
       
       img(src="@/assets/curso/temas/tema3/tema3-img-03.svg")
 
-      p.mt-3.mb-4 Fuente: (Unidad nacional de gestión de riesgo de desastres. (s.f)).       
+      p.mt-3.mb-4 Fuente: (Unidad Nacional de Gestión de Riesgo de Desastres. (s.f)).       
 
     p.mb-3 El desastre es la consecuencia derivada de la manifestación de uno o varios eventos naturales o antropogénicos.
 
@@ -35,7 +35,7 @@
               img(src='@/assets/curso/temas/tema3/tema3-img-05.svg')        
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="01")
-              p.ps-4.mb-0 Estas manifestaciones al tener contacto con alguna condición propicia de vulnerabilidad en las comunidades, los bienes e inmuebles, los medios de subsistencia, la prestación de servicios o los recursos naturales, genera daños o pérdidas de carácter material, económico, ambiental hasta de vidas humanas, produciendo alteraciones graves en las condiciones normales de funcionamiento de las comunidades y el desarrollo sostenible del territorio. Por ello, el Estado y el Sistema nacional de gestión del riesgo de desastres, ejecutan acciones de respuesta a la emergencia, rehabilitación y reconstrucción.
+              p.ps-4.mb-0 Estas manifestaciones al tener contacto con alguna condición propicia de vulnerabilidad en las comunidades, los bienes e inmuebles, los medios de subsistencia, la prestación de servicios o los recursos naturales, genera daños o pérdidas de carácter material, económico, ambiental hasta de vidas humanas, produciendo alteraciones graves en las condiciones normales de funcionamiento de las comunidades y el desarrollo sostenible del territorio. Por ello, el Estado y el Sistema Nacional de Gestión del Riesgo de Desastres, ejecutan acciones de respuesta a la emergencia, rehabilitación y reconstrucción.
         .row.justify-content-center.my-lg-4
           .col-lg-6
             figure
@@ -56,7 +56,7 @@
               img(src='@/assets/curso/temas/tema3/tema3-img-08.svg')        
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="04")
-              p.texto-slyder2.ps-4.mb-0 Estipulado en la Política nacional de gestión del riesgo de desastre – PNGRD, se encuentra que, la preparación para la respuesta a emergencias, debe regirse por medidas de direccionamiento, optimización y capacitación como sistemas de alerta, centro de reserva y albergues, entre otros, lo anterior con el fin de que los servicios básicos de respuesta sean de fácil de acceso. 
+              p.texto-slyder2.ps-4.mb-0 Estipulado en la Política Nacional de Gestión del Riesgo de Desastre – PNGRD, se encuentra que, la preparación para la respuesta a emergencias, debe regirse por medidas de direccionamiento, optimización y capacitación como sistemas de alerta, centro de reserva y albergues, entre otros, lo anterior con el fin de que los servicios básicos de respuesta sean de fácil de acceso. 
     .clr.background-img-tema3-2.p-4.mt-4.mb-5
       .row
         .col-lg-12
@@ -64,9 +64,9 @@
           
       img(src="@/assets/curso/temas/tema3/tema3-img-10.png")
 
-      p.margin-left.mt-3.mb-4 Fuente:  (Unidad nacional de gestión de riesgo de desastres. (s.f)).  
+      p.margin-left.mt-3.mb-4 Fuente:  (Unidad Nacional de Gestión de Riesgo de Desastres. (s.f)).  
 
-    p.mb-4 El Sistema nacional de gestión del riesgo de desastres - SNGRD es la hoja de ruta para la institucionalidad, en el marco de la gestión integral del riesgo de desastres y la Estrategia para la respuesta de emergencias - ERE.
+    p.mb-4 El Sistema nacional de gestión del riesgo de desastres - SNGRD es la hoja de ruta para la institucionalidad, en el marco de la gestión integral del riesgo de desastres y la Estrategia para la Respuesta de Emergencias - ERE.
 
     .clr-img-slyder3.mb-5
       .row.justify-content-around.align-items-center
@@ -80,7 +80,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/tema3-img-14.svg')})`}"
           )
           .bloque-texto-g__texto.bloque-texto.p-4
-            p.mb-0 En la gestión del riesgo, un pilar fundamental para el desarrollo territorial es su articulación efectiva a través de los diferentes instrumentos definidos para la planificación (imagen 65). De esta manera, para los diferentes niveles de gobierno, la ERE, junto con el plan de gestión del riesgo de desastres, deberá estar articulada con los planes de desarrollo y de ordenamiento territorial. Así mismo, los planes de emergencia de los diferentes sectores, entidades y comunidades se constituyen también como insumos importantes para la formulación y actualización periódica de la ERE.
+            p.mb-0 En la gestión del riesgo, un pilar fundamental para el desarrollo territorial es su articulación efectiva a través de los diferentes instrumentos definidos para la planificación (imagen 65). De esta manera, para los diferentes niveles de gobierno, la ERE, junto con el Plan de Gestión del Riesgo de Desastres, deberá estar articulada con los planes de desarrollo y de ordenamiento territorial. Así mismo, los planes de emergencia de los diferentes sectores, entidades y comunidades se constituyen también como insumos importantes para la formulación y actualización periódica de la ERE.
     
     .background-puntos-tema3-1.p-4.mt-4.mb-5 
       .row.justify-content-around.aling-items-center.mt-5
@@ -118,7 +118,7 @@
               .h2.text-center.mb-2 Pc
               p.text-center #[b Planes comunitarios de emergencia.]
 
-      p.mt-3 Fuente: (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
+      p.mt-3 Fuente: (Unidad Nacional de Gestión de Riesgo de Desastres. (s.f)). 
 
     .background-tema3-2   
       .row.justify-content-around.aling-items-center.mt-5  
@@ -211,7 +211,7 @@
               img(src="@/assets/curso/temas/tema3/tema3-img-32.svg")            
       .row
         .col-lg-10
-          p.mb-3 Fuente: (Unidad nacional de gestión de riesgo de desastres. (s.f)).                      
+          p.mb-3 Fuente: (Unidad Nacional de Gestión de Riesgo de Desastres. (s.f)).                      
 
     .bloque-texto-g.color-primario.background-tema3-3.p-3.p-sm-4.p-md-5.mt-4
       .row.align-items-center
@@ -222,13 +222,13 @@
             p.mb-5 La organización para la respuesta se basa en la coordinación más que en la jerarquía y se enfoca en la prestación oportuna de los Servicios de Respuesta y el desempeño efectivo de las Funciones de Soporte. Para ello define niveles de emergencia, actores e instancias de coordinación, una estructura de intervención y pautas para la articulación con los otros niveles de gobierno.
 
     p.mt-5.mb-3 Para la formulación de la ERE es importante llevar a cabo las siguientes actividades:
-    p.mb-3 Fuente: (Unidad nacional de gestión de riesgo de desastres. (s.f)).   
+    p.mb-3 Fuente: (Unidad Nacional de Gestión de Riesgo de Desastres. (s.f)).   
 
     TabsB.color-acento-botones.mt-5
       .py-4.py-md-5(titulo="Primera actividad" )
         .row
           .col-md-6.mb-4.mb-md-0
-            p Tener conformado y activo el Consejo de gestión del riesgo de desastres constituido por resolución o decreto.        
+            p Tener conformado y activo el Consejo de Gestión del Riesgo de Desastres constituido por resolución o decreto.        
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/tema3-img-42.svg', alt='Texto que describa la imagen')
@@ -242,14 +242,14 @@
       .py-4.py-md-5(titulo="Tercera actividad")
         .row
           .col-md-6
-            p Tener el plan de gestión del riesgo de desastres formulado y adoptado por decreto.
+            p Tener el Plan de Gestión del Riesgo de Desastres formulado y adoptado por decreto.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema3/tema3-img-44.svg', alt='Texto que describa la imagen')            
       .py-4.py-md-5(titulo="Cuarta actividad")
         .row
           .col-md-6
-            p Tener un Sistema de Información creado.
+            p Tener un sistema de información creado.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema3/tema3-img-45.svg', alt='Texto que describa la imagen')

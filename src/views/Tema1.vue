@@ -182,16 +182,13 @@
       .col-lg-8.order-1.order-lg-2
         TabsA.color-acento-botones.tam-vertical.mb-5        
           .tarjeta.clr-paleYellow.tam-activa.p-4(titulo="Enfoque retrospectivo")
-            h4 Enfoque retrospectivo
             p El enfoque retrospectivo se encarga de proporcionar un análisis de riesgo en función de eventos históricos, pero al ser esta información poca o nula, no aporta suficiente para la correcta cuantificación y gestión del riesgo. Debido a esto, el enfoque prospectivo proporciona una base sólida para la evaluación del riesgo, ya que diseña modelos probabilísticos y tiene en cuenta la información existente de eventos pasados sin depender directamente de esta. 
           .tarjeta.clr-paleYellow.p-4(titulo="Enfoque prospectivo")
-            h4 Enfoque prospectivo
             p En enfoque prospectivo se ejecuta mediante modelos probabilísticos creados con base en registros verídicos de acontecimientos anteriores, para llevar a cabo una evaluación integral de la gestión del riesgo, se consideran tres elementos fundamentales, los cuales no es posible definir sin tomar en cuenta los otros dos: amenaza, vulnerabilidad y grado de exposición.            
           .tarjeta.clr-paleYellow.p-4(titulo="Distribución de probabilidad de la <br/> amenaza y la pérdida")
-            h4 Distribución de probabilidad de la amenaza y la pérdida             
             p La evaluación integral de la gestión del riesgo, debe realizarse mediante la integración de la distribución de la probabilidad de los componentes del riesgo, amenaza y pérdida. En los cuales, el método se fundamenta en el análisis y evaluación de los daños o pérdidas en los elementos expuestos en el transcurso de los escenarios de la amenaza, para posteriormente, llevar a cabo una integración probabilística del resultante, a través de la identificación de factores, como la frecuencia en la que ocurren dichos escenarios.
 
-    p.mt-4.mb-4 El modelo probabilístico del enfoque prospectivo se instituye mediante cuatro módulos principales (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019).
+    p.mt-4.mb-4 El modelo probabilístico del enfoque prospectivo se instituye mediante cuatro módulos principales (Unidad Nacional para la Gestión del Riesgo de Desastres -UNGRD-, 2019).
 
     .row.justify-content-around.align-items-center
       .col-11  
@@ -236,7 +233,7 @@
                   p Cálculo del riesgo para integración de daños para estimación de pérdidas.
     
     .row.mt-5
-      p La gestión para el cálculo del riesgo, debe tener como base la investigación y análisis de los acontecimientos históricos que representen o asemejen la dinámica actual de los eventos, que posiblemente generen afectación sobre elementos expuestos el día de mañana en caso de un desastre. Los resultados en cuanto a cálculo de pérdidas son el principal insumo para crear la función de densidad que proporciona el panorama completo del riesgo (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
+      p La gestión para el cálculo del riesgo, debe tener como base la investigación y análisis de los acontecimientos históricos que representen o asemejen la dinámica actual de los eventos, que posiblemente generen afectación sobre elementos expuestos el día de mañana en caso de un desastre. Los resultados en cuanto a cálculo de pérdidas son el principal insumo para crear la función de densidad que proporciona el panorama completo del riesgo (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). 
     
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
       img(src="@/assets/curso/temas/tema1/tema1-img-28.svg", alt="alt").img100
@@ -261,7 +258,7 @@
               img(src='@/assets/curso/temas/tema1/tema1-img-30.svg')
     
     .row.mt-5
-      p En la imagen se evidencia como la gestión del riesgo es un proceso permanente y continuo entre la vulnerabilidad y la amenaza, un proceso que debe ser articulado con los instrumentos de planificación territorial, contribuyendo al desarrollo social y económico de la localidad. De igual manera es fundamental la articulación de la gestión del riesgo a nivel nacional, departamental y municipal (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
+      p En la imagen se evidencia como la gestión del riesgo es un proceso permanente y continuo entre la vulnerabilidad y la amenaza, un proceso que debe ser articulado con los instrumentos de planificación territorial, contribuyendo al desarrollo social y económico de la localidad. De igual manera es fundamental la articulación de la gestión del riesgo a nivel nacional, departamental y municipal (Unidad nacional para la Gestión del Riesgo de Desastres -UNGRD-, 2019).  
     
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
       figure
@@ -271,7 +268,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido.mt-4
       h2 1.2  Métodos de control
 
-    p.mt-4.mb-4 Como se explicó anteriormente, la gestión del riesgo, es un proceso social que inicia con la construcción de los escenarios de estos, a los que está expuesta una comunidad, y continúa con la creación, análisis, implementación y control de las medidas para minimizar cada uno de estos factores al menos porcentaje posible.
+    p.mt-4.mb-4 Como se explicó anteriormente, la gestión del riesgo, es un proceso social que inicia con la construcción de los escenarios de estos, a los que está expuesta una comunidad, y continúa con la creación, análisis, implementación y control de las medidas para minimizar cada uno de estos factores al menor porcentaje posible.
     .clr-img-slyder1.mb-5
       .row.justify-content-around.align-items-center
         .col-12.p-4
@@ -284,7 +281,7 @@
         .cajon.color-acento_contenido.p-4
           p Intervenir el riesgo, es el tratamiento mediante el cual se modifica de manera intencional las características de un fenómeno, con el fin de reducir la amenaza que representa o modificar las características de un elemento expuesto, lo anterior con el propósito de reducir su vulnerabilidad que se pueda presentar en el territorio específico. 
 
-    p.mb-4.mt-4 La reducción del riesgo se logra con acciones que lo mitigan o lo previenen. Estas medidas se adoptan para reducir la amenaza, la exposición y disminuir la vulnerabilidad de las personas, los medios de subsistencia, los bienes, la infraestructura y los recursos ambientales; para evitar o minimizar los daños y las pérdidas, en caso de producirse los eventos físicos peligrosos. La reducción del riesgo la componen (Unidad nacional para la gestión del riesgo de desastres, 2013): 
+    p.mb-4.mt-4 La reducción del riesgo se logra con acciones que lo mitigan o lo previenen. Estas medidas se adoptan para reducir la amenaza, la exposición y disminuir la vulnerabilidad de las personas, los medios de subsistencia, los bienes, la infraestructura y los recursos ambientales; para evitar o minimizar los daños y las pérdidas, en caso de producirse los eventos físicos peligrosos. La reducción del riesgo la componen (Unidad Nacional para la Gestión del Riesgo de Desastres, 2013): 
     
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-06
 
@@ -338,7 +335,7 @@
     .row.mb-5
       figure.mt-5
         .video
-         iframe(width="560" height="315" src="https://www.youtube.com/embed/LAAJ0rkEyac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/LAAJ0rkEyac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-around.aling-items-center.mt-5.mb-5
       .col-11
@@ -347,7 +344,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-42.svg')})`}"
           )
           .bloque-texto-g__texto.bloque-texto-tema4.p-4
-            p.mb-0 El propósito de la protección financiera es aumentar el nivel de resiliencia de las comunidades y sus territorios a través de procesos de planificación del desarrollo sostenible, es decir, diseñar y mantener instrumentos financieros para subsanar cualquier pérdida o daño (humano o material) y lograr una recuperación, total o parcial del territorio (Unidad nacional para la gestión del riesgo de desastres, 2013).
+            p.mb-0 El propósito de la protección financiera es aumentar el nivel de resiliencia de las comunidades y sus territorios a través de procesos de planificación del desarrollo sostenible, es decir, diseñar y mantener instrumentos financieros para subsanar cualquier pérdida o daño (humano o material) y lograr una recuperación, total o parcial del territorio (Unidad Nacional para la Gestión del Riesgo de Desastres, 2013).
           
     .row.mt-5
       p Ante la incidencia de un evento peligroso, la finalidad de la protección financiera, es destinar los recursos necesarios, en el momento oportuno, para quien lo requiera, es decir, mediante un enfoque prospectivo planificar y calcular los costos generados por la posible materialización de un evento peligroso. Así mismo, fortalecer económicamente la capacidad de respuesta. 
@@ -380,9 +377,9 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/tema1-img-47.svg' alt='AvatarTop')
-          p.text-center #[b Seguros que amparan deudas, por ejemplo, el que ampara un crédito hipotecario contra sismos. En este caso si la casa es derrumbada, el seguro cubre la deuda pendiente con el banco, aunque no repone lo necesario para adquirir otra casa]
+          p.text-center #[b Seguros que amparan deudas, por ejemplo, el que ampara un crédito hipotecario contra sismos. En este caso si la casa es derrumbada, el seguro cubre la deuda pendiente con el banco, aunque no repone lo necesario para adquirir otra casa.]
 
-    p.mt-5 Las medidas de reducción del riesgo, cuentan con herramientas de intervención como la gestión sectorial y comunitaria, cuya finalidad es incorporar en los instrumentos de ordenamiento territorial, la seguridad sostenible de la población (Unidad nacional para la gestión del riesgo de desastres, 2022). Dentro de las líneas de acción de gestión sectorial se pueden encontrar:       
+    p.mt-5 Las medidas de reducción del riesgo, cuentan con herramientas de intervención como la gestión sectorial y comunitaria, cuya finalidad es incorporar en los instrumentos de ordenamiento territorial, la seguridad sostenible de la población (Unidad Nacional para la Gestión del Riesgo de Desastres, 2022). Dentro de las líneas de acción de gestión sectorial se pueden encontrar:       
 
     TabsC.color-acento-botones.tabs-c-1.mt-5
       .py-3.py-md-4(titulo="Generación de insumos para promover la reducción del riesgo")
@@ -429,7 +426,7 @@ export default {
     datosSlyder2: [
       {
         texto:
-          'El procedimiento general para realizar una intervención sobre un riesgo, es identificar y conocer su procedencia, de acuerdo a las amenazas presentes a nivel espacial. Es necesario también, determinar el origen de las dimensiones de vulnerabilidad y hacer un paralelo con cada amenaza encontrada, con este procedimiento, para aquellos eventos que se originan por causas socio-naturales o antrópicas, debido a la alta incidencia del ser humano sobre ellas. ',
+          'El procedimiento general para realizar una intervención sobre un riesgo, es identificar y conocer su procedencia, de acuerdo a las amenazas presentes a nivel espacial. Es necesario también, determinar el origen de las dimensiones de vulnerabilidad y hacer un paralelo con cada amenaza encontrada, con este procedimiento, para aquellos eventos que se originan por causas socionaturales o antrópicas, debido a la alta incidencia del ser humano sobre ellas. ',
         imagen: require('@/assets/curso/temas/tema1/tema1-img-33.svg'),
       },
       {

@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p Apreciado aprendiz, bienvenido a este componente formativo, donde aprenderá lo que se refiere a las técnicas de manejo, evaluación y métodos de control del riesgo; en un segundo tema, se hará referencia al subsistema nacional de voluntarios de primera respuesta, y se finalizará con la respuesta comunitaria a emergencias y desastres. 
+    p Apreciado aprendiz, bienvenido a este componente formativo, donde aprenderá lo que se refiere a las técnicas de manejo, evaluación y métodos de control del riesgo; en un segundo tema, se hará referencia al Subsistema Nacional de Voluntarios de Primera Respuesta, y se finalizará con la respuesta comunitaria a emergencias y desastres. 
 
     p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 

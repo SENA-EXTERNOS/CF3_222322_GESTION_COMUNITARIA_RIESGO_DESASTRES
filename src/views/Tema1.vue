@@ -14,7 +14,7 @@
             img(src="@/assets/curso/temas/tema1/tema1-img-01-1.svg")
         .col-lg-7  
           .tema-1-txt1
-            p.mb-3 Derivado de los diversos desastres ocurridos en Colombia durante el siglo pasado, se constituye y estructura el Sistema nacional para la prevención y atención de desastres – SNPAD, mediante la Ley 46 de 1988, sistema que se instituyó como una organización interinstitucional formal y descentralizada territorialmente cuyo propósito principal se basó en darle un enfoque prevencionista a la gestión del riesgo de desastres. 
+            p.mb-3 Derivado de los diversos desastres ocurridos en Colombia durante el siglo pasado, se constituye y estructura el Sistema Nacional para la Prevención y Atención de Desastres – SNPAD, mediante la Ley 46 de 1988, sistema que se instituyó como una organización interinstitucional formal y descentralizada territorialmente cuyo propósito principal se basó en darle un enfoque prevencionista a la gestión del riesgo de desastres. 
             p.mb-0 La creación del SNPAD permitió el reconocimiento del carácter social de los desastres, gracias a esto el país se posicionó como unos de los pioneros en América Latina en instaurar una política pública para abordar integralmente estas situaciones de forma innovadora, multisectorial e interdisciplinaria.
 
     p.mt-3 Como instrumento guía se adopta la Política Nacional de Gestión del Riesgo de Desastres - PNGRD mediante la Ley 523 de 2012, de igual manera se dispone de organismos de gestión y control como el Sistema Nacional de Gestión del Riesgo de Desastres de Colombia (Unidad Nacional de Gestión del Riesgo de Desastres - UNGRD, 2013).
@@ -78,7 +78,7 @@
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-02.svg").tema1-decorativa-02
 
     p.mt-5.mb-0 Para comprender la gestión del riesgo de desastres, es necesario entender los siguientes conceptos básicos:
-    p #[i Fuente: Unidad nacional para la gestión del riesgo de desastres (2015).]
+    p #[i Fuente: Unidad Nacional para la Gestión del Riesgo de Desastres (2015).]
 
     SlyderF(columnas="col-lg-6 col-xl-4").index-dos
       .tarjeta.color--secundario.p-4
@@ -86,14 +86,14 @@
           .col-8
             img(src='@/assets/curso/temas/tema1/tema1-img-08.svg' alt='AvatarTop')
         h2.text-center Riesgo de desastre
-        p.text-center Es la combinación entre una o varias amenazas (evento natural, tecnológico, antrópico o socio natural peligroso) y la vulnerabilidad de los elementos expuestos.
+        p.text-center Es la combinación entre una o varias amenazas (evento natural, tecnológico, antrópico o socionatural peligroso) y la vulnerabilidad de los elementos expuestos.
 
       .tarjeta.color--secundario.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/tema1-img-09.svg' alt='AvatarTop')
         h2.text-center Amenaza
-        p.text-center Peligro potencial debido a la materialización de un evento peligroso con magnitud severa, que pueda ocasionar daños y pérdidas de vidas humanos o bienes, infraestructura, medios de subsistencia y recursos naturales.
+        p.text-center Peligro potencial debido a la materialización de un evento peligroso con magnitud severa, que pueda ocasionar daños y pérdidas de vidas humanas o bienes, infraestructura, medios de subsistencia y recursos naturales.
 
       .tarjeta.color--secundario.p-4
         .row.justify-content-center.mb-3
@@ -109,7 +109,7 @@
         h2.text-center Exposición
         p.text-center Edificaciones, poblaciones o activos humanos ubicados en zonas de riesgo.
 
-    p.mt-5 Colombia, debido a su ubicación sobre placas tectónicas y en zona ecuatorial, posee ciertas características geográficas, topográficas, hidro climatológicas y geológicas específicas.
+    p.mt-5 Colombia, debido a su ubicación sobre placas tectónicas y en zona ecuatorial, posee ciertas características geográficas, topográficas, hidroclimatológicas y geológicas específicas.
     
     .clr-paleGray
       .row.justify-content-around.align-items-center
@@ -409,7 +409,7 @@ export default {
     datosSlyder: [
       {
         texto:
-          'La ubicación espacio geográfico del país, conlleva a la exposición del territorio a diversas amenazas naturales, que, sumado a la planificación y ordenamiento territorial deficiente, generan escenarios de riesgo, que al materializarse pueden desencadenar daños y pérdidas que podrían comprometer la estabilidad económica, fiscal y social del país.',
+          'La ubicación espacio geográfica del país, conlleva a la exposición del territorio a diversas amenazas naturales, que, sumado a la planificación y ordenamiento territorial deficiente, generan escenarios de riesgo, que al materializarse pueden desencadenar daños y pérdidas que podrían comprometer la estabilidad económica, fiscal y social del país.',
         imagen: require('@/assets/curso/temas/tema1/tema1-img-12.svg'),
       },
       {

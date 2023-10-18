@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="520" viewBox="0 0 1328 520">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_295079" data-name="Rectángulo 295079" width="583" height="245" rx="7" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_997056" data-name="Grupo 997056" transform="translate(-137 -522)">
+    <rect id="Rectángulo_295076" data-name="Rectángulo 295076" width="1328" height="520" transform="translate(137 522)" fill="#afafaf" opacity="0.11"/>
+    <g id="Enmascarar_grupo_104" data-name="Enmascarar grupo 104" transform="translate(720 1042) rotate(180)" opacity="0.124" clip-path="url(#clip-path)">
+      <g id="Grupo_881599" data-name="Grupo 881599" transform="translate(151.662 -36.259)">
+        <path id="Trazado_624567" data-name="Trazado 624567" d="M0,30.4,22.075,50.331c15.306,13.818,40.123,13.817,55.428,0L90.148,38.912a7.364,7.364,0,0,1,9.665,0l.125.113a5.934,5.934,0,0,1,.028,9.011L59.837,84.261c-13.961,12.6-13.962,33.038,0,45.641h0c13.961,12.6,36.6,12.6,50.557,0L232.865,19.337l26.966,3.317L215.247,62.9c-19.46,17.568-19.46,46.052,0,63.621h0c19.461,17.569,51.012,17.569,70.473,0l68.174-61.547a8.174,8.174,0,0,1,10.724,0h0a6.386,6.386,0,0,1,0,9.682L263.658,165.8c-11,9.929-11,26.029,0,35.959h0c11,9.93,28.832,9.93,39.832,0l69.937-63.136a8.754,8.754,0,0,1,11.49,0h0a6.841,6.841,0,0,1,0,10.372l-1.225,1.106c-23.226,20.968-23.226,54.964,0,75.932l52.164,47.092V0" transform="translate(0 1.035)" fill="#b8e3db"/>
+        <ellipse id="Elipse_5486" data-name="Elipse 5486" cx="16.065" cy="14.503" rx="16.065" ry="14.503" transform="translate(111.145 101.388)" fill="#31346b"/>
+        <g id="Grupo_881598" data-name="Grupo 881598" transform="translate(204.335 154.225)">
+          <ellipse id="Elipse_5487" data-name="Elipse 5487" cx="2.657" cy="2.398" rx="2.657" ry="2.398" fill="#31346b"/>
+          <ellipse id="Elipse_5488" data-name="Elipse 5488" cx="2.657" cy="2.398" rx="2.657" ry="2.398" transform="translate(0 12.531)" fill="#31346b"/>
+          <ellipse id="Elipse_5489" data-name="Elipse 5489" cx="2.657" cy="2.398" rx="2.657" ry="2.398" transform="translate(13.519 0)" fill="#31346b"/>
+          <ellipse id="Elipse_5490" data-name="Elipse 5490" cx="2.657" cy="2.398" rx="2.657" ry="2.398" transform="translate(13.519 12.531)" fill="#31346b"/>
+        </g>
+        <ellipse id="Elipse_5491" data-name="Elipse 5491" cx="6.562" cy="5.924" rx="6.562" ry="5.924" transform="translate(332.858 164.937)" fill="#31346b"/>
+        <line id="Línea_331" data-name="Línea 331" y1="96.657" x2="107.067" transform="translate(333.922 37.155)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Línea_332" data-name="Línea 332" y1="50.611" x2="56.061" transform="translate(142.597 23.922)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        <ellipse id="Elipse_5492" data-name="Elipse 5492" cx="7.007" cy="6.326" rx="7.007" ry="6.326" transform="translate(167.125 115.754)" fill="#b8e3db"/>
+        <ellipse id="Elipse_5493" data-name="Elipse 5493" cx="7.007" cy="6.326" rx="7.007" ry="6.326" transform="translate(389.945 119.571)" fill="#f7f3ea"/>
+        <path id="Trazado_624568" data-name="Trazado 624568" d="M54.832,6.885,3.568,53.165a10.26,10.26,0,0,0,0,15.554h0a13.128,13.128,0,0,0,17.229,0l27.4-24.733a4.52,4.52,0,0,1,5.932,0h0a3.533,3.533,0,0,1,0,5.355l-9.321,8.414a5.549,5.549,0,0,0,0,8.415h0a7.1,7.1,0,0,0,9.321,0l25.12-22.677A19.262,19.262,0,0,1,100.057,40.6a17.8,17.8,0,0,1,4.362,2.893l.689.622L153.971,0S54.832,6.375,54.832,6.885Z" transform="translate(266.471 16.858)" fill="#cef0e6"/>
+        <line id="Línea_333" data-name="Línea 333" x1="98.649" y2="89.059" transform="translate(82.992 0)" fill="none" stroke="#31346b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

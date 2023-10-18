@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="430" viewBox="0 0 1240 430">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_302425" data-name="Rectángulo 302425" width="674" height="283" rx="7" transform="translate(-0.807 -0.088)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1000268" data-name="Grupo 1000268" transform="translate(-180 -530)">
+    <g id="Rectángulo_294097" data-name="Rectángulo 294097" transform="translate(180 530)" fill="#222b5a" stroke="#707070" stroke-width="1">
+      <rect width="1240" height="430" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1239" height="429" rx="14.5" fill="none"/>
+    </g>
+    <g id="Enmascarar_grupo_130" data-name="Enmascarar grupo 130" transform="translate(746.807 677.088)" opacity="0.124" clip-path="url(#clip-path)">
+      <g id="Grupo_997061" data-name="Grupo 997061" transform="translate(175.118 8.199)">
+        <path id="Trazado_652684" data-name="Trazado 652684" d="M0,280.281l25.49-23.012c17.675-15.956,46.331-15.955,64,0l14.6,13.184a8.5,8.5,0,0,0,11.16,0l.145-.131a6.852,6.852,0,0,0,.032-10.405L69.1,218.089c-16.121-14.554-16.122-38.15,0-52.7h0c16.121-14.554,42.258-14.554,58.379,0L268.893,293.058l31.138-3.831-51.482-46.477c-22.471-20.286-22.471-53.177,0-73.464h0c22.472-20.287,58.9-20.287,81.377,0l78.721,71.069a9.438,9.438,0,0,0,12.384,0h0a7.374,7.374,0,0,0,0-11.179L304.451,123.93c-12.7-11.466-12.7-30.056,0-41.523h0c12.7-11.466,33.293-11.466,45.994,0l80.757,72.9a10.109,10.109,0,0,0,13.268,0h0a7.9,7.9,0,0,0,0-11.977l-1.414-1.277c-26.82-24.212-26.82-63.468,0-87.68L503.291,0V315.387" transform="translate(0 0)" fill="#b8e3db"/>
+        <ellipse id="Elipse_5875" data-name="Elipse 5875" cx="18.551" cy="16.747" rx="18.551" ry="16.747" transform="translate(128.341 166.012)" fill="#f1b62b"/>
+        <g id="Grupo_997060" data-name="Grupo 997060" transform="translate(235.95 118.486)">
+          <ellipse id="Elipse_5876" data-name="Elipse 5876" cx="3.068" cy="2.77" rx="3.068" ry="2.77" transform="translate(0 14.47)" fill="#f1b62b"/>
+          <ellipse id="Elipse_5877" data-name="Elipse 5877" cx="3.068" cy="2.77" rx="3.068" ry="2.77" transform="translate(0 0)" fill="#f1b62b"/>
+          <ellipse id="Elipse_5878" data-name="Elipse 5878" cx="3.068" cy="2.77" rx="3.068" ry="2.77" transform="translate(15.61 14.47)" fill="#f1b62b"/>
+          <ellipse id="Elipse_5879" data-name="Elipse 5879" cx="3.068" cy="2.77" rx="3.068" ry="2.77" transform="translate(15.61 0)" fill="#f1b62b"/>
+        </g>
+        <ellipse id="Elipse_5880" data-name="Elipse 5880" cx="7.577" cy="6.84" rx="7.577" ry="6.84" transform="translate(384.358 112.446)" fill="#f1b62b"/>
+        <line id="Línea_1061" data-name="Línea 1061" x2="123.632" y2="111.612" transform="translate(385.586 162.067)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Línea_1062" data-name="Línea 1062" x2="64.735" y2="58.441" transform="translate(164.659 230.518)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        <ellipse id="Elipse_5881" data-name="Elipse 5881" cx="8.092" cy="7.305" rx="8.092" ry="7.305" transform="translate(192.982 168.309)" fill="#b8e3db"/>
+        <ellipse id="Elipse_5882" data-name="Elipse 5882" cx="8.092" cy="7.305" rx="8.092" ry="7.305" transform="translate(450.276 163.901)" fill="#f7f3ea"/>
+        <path id="Trazado_652685" data-name="Trazado 652685" d="M63.315,75.121,4.12,21.681a11.847,11.847,0,0,1,0-17.961h0a15.16,15.16,0,0,1,19.895,0L55.651,32.28a5.219,5.219,0,0,0,6.849,0h0a4.079,4.079,0,0,0,0-6.183L51.738,16.381a6.408,6.408,0,0,1,0-9.717h0a8.2,8.2,0,0,1,10.763,0L91.507,32.85a22.242,22.242,0,0,0,24.031,3.341,20.556,20.556,0,0,0,5.036-3.341l.8-.718,56.424,50.938S63.315,75.71,63.315,75.121Z" transform="translate(307.699 214.045)" fill="#cef0e6"/>
+        <line id="Línea_1063" data-name="Línea 1063" x1="113.912" y1="102.838" transform="translate(95.832 213.744)" fill="none" stroke="#f1b62b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328.813" height="657.667" viewBox="0 0 1328.813 657.667">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_302499" data-name="Rectángulo 302499" width="262.813" height="266.118" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_302500" data-name="Rectángulo 302500" width="262.813" height="266.118" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1000268" data-name="Grupo 1000268" transform="translate(-135.187 -4599.667)">
+    <g id="Grupo_881611" data-name="Grupo 881611" transform="translate(-44.813 -8.216)">
+      <g id="Enmascarar_grupo_132" data-name="Enmascarar grupo 132" transform="translate(180 4607.882)" clip-path="url(#clip-path)">
+        <g id="Grupo_1000189" data-name="Grupo 1000189" transform="translate(-161.303 -180.563)" opacity="0.15">
+          <path id="Trazado_653873" data-name="Trazado 653873" d="M377.076,43.566c100.489,0,182.267,81.744,182.267,182.232S477.564,408.065,377.076,408.065,194.843,326.287,194.843,225.8,276.587,43.566,377.076,43.566Zm0,328.548A146.315,146.315,0,1,0,230.755,225.8,146.322,146.322,0,0,0,377.076,372.114Z" transform="translate(-194.843 -43.566)" fill="#f1b62b"/>
+          <line id="Línea_1067" data-name="Línea 1067" x2="143.539" y2="143.538" transform="translate(229.434 239.083)" fill="none" stroke="#222b5a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Enmascarar_grupo_133" data-name="Enmascarar grupo 133" transform="translate(1246 4999.432)" clip-path="url(#clip-path-2)">
+        <g id="Grupo_1000190" data-name="Grupo 1000190" transform="translate(51.143 64.059)" opacity="0.15">
+          <path id="Trazado_653874" data-name="Trazado 653874" d="M377.11,408.065c-100.489,0-182.267-81.744-182.267-182.232S276.621,43.566,377.11,43.566s182.233,81.778,182.233,182.267S477.6,408.065,377.11,408.065Zm0-328.548A146.315,146.315,0,1,0,523.43,225.833,146.322,146.322,0,0,0,377.11,79.517Z" transform="translate(-186.37 -25.443)" fill="#f1b62b"/>
+          <line id="Línea_1068" data-name="Línea 1068" x1="143.539" y1="143.538" fill="none" stroke="#222b5a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

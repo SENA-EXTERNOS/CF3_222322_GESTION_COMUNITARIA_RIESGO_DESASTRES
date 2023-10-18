@@ -248,6 +248,8 @@ export default {
     {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). <em>Atlas de Riesgo de Colombia: revelando los desastres latentes</em>. Bogotá, Colombia.',
+      link:
+        'http://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179',
     },
 
     {

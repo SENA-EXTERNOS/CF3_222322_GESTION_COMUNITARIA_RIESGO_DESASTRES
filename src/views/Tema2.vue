@@ -27,7 +27,7 @@
               p.texto-slyder2-2.ps-3.mb-3 La creación del Subsistema Nacional de Voluntarios en Primera Respuesta, se creó gracias a la Ley 1505 de 2012, o mejor conocida como Ley de voluntario, la cual dentro de su cuerpo estipula cómo se debe manejar el tema nominal y estímulos a sus participantes, entre otras disposiciones en términos de voluntarios en primera respuesta (Congreso de la República, 2012).
 
     .clr.background-img-tema2-1.p-4.mt-4.mb-5 
-      p.mt-5 El Subsistema nacional de voluntarios en primera respuesta está integrado por: 
+      p.mt-5 El Subsistema Nacional de Voluntarios en Primera Respuesta está integrado por: 
       .row.justify-content-around.aling-items-center.mt-5
         .col-10
           img(src="@/assets/curso/temas/tema2/tema2-img-05.svg")

@@ -117,7 +117,7 @@
           SlyderB.mb-5.mt-5.color-hover(:datos="datosSlyder")    
     
     .row.mt-5
-      p Si no se crean medidas que promuevan la reducción del riesgo, se pueden producir impactos en la reducción del riesgo. Fuente: Unidad nacional para la gestión del riesgo de desastres, (2015).
+      p Si no se crean medidas que promuevan la reducción del riesgo, se pueden producir impactos en la reducción del riesgo. #[em Fuente: Unidad nacional para la gestión del riesgo de desastres, (2015)].
 
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
       .row.tam-row
@@ -233,7 +233,7 @@
                   p Cálculo del riesgo para integración de daños para estimación de pérdidas.
     
     .row.mt-5
-      p La gestión para el cálculo del riesgo, debe tener como base la investigación y análisis de los acontecimientos históricos que representen o asemejen la dinámica actual de los eventos, que posiblemente generen afectación sobre elementos expuestos el día de mañana en caso de un desastre. Los resultados en cuanto a cálculo de pérdidas son el principal insumo para crear la función de densidad que proporciona el panorama completo del riesgo (Unidad nacional para la gestión del riesgo de desastres -UNGRD-, 2019). 
+      p La gestión para el cálculo del riesgo, debe tener como base la investigación y análisis de los acontecimientos históricos que representen o asemejen la dinámica actual de los eventos, que posiblemente generen afectación sobre elementos expuestos el día de mañana en caso de un desastre. Los resultados en cuanto a cálculo de pérdidas son el principal insumo para crear la función de densidad que proporciona el panorama completo del riesgo (Unidad Nacional para la Gestión del Riesgo de Desastres -UNGRD-, 2019).
     
     .clr.background-img-tema1-2.p-4.mt-4.mb-5
       img(src="@/assets/curso/temas/tema1/tema1-img-28.svg", alt="alt").img100

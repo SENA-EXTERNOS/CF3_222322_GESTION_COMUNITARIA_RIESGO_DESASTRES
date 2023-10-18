@@ -66,7 +66,7 @@
 
       p.margin-left.mt-3.mb-4 Fuente:  (Unidad Nacional de Gestión de Riesgo de Desastres. (s.f)).  
 
-    p.mb-4 El Sistema nacional de gestión del riesgo de desastres - SNGRD es la hoja de ruta para la institucionalidad, en el marco de la gestión integral del riesgo de desastres y la Estrategia para la Respuesta de Emergencias - ERE.
+    p.mb-4 El Sistema Nacional de Gestión del Riesgo de Desastres - SNGRD es la hoja de ruta para la institucionalidad, en el marco de la gestión integral del riesgo de desastres y la Estrategia para la Respuesta de Emergencias - ERE.
 
     .clr-img-slyder3.mb-5
       .row.justify-content-around.align-items-center
